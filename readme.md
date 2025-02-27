@@ -1,0 +1,1 @@
+Develop a deep learning model using Bidirectional LSTM to classify Yelp reviews as either positive (1) or negative (0) based on their text content. The model should preprocess raw text, convert it into numerical sequences, and predict sentiment with high accuracy.
